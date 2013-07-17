@@ -2,7 +2,7 @@ package com.stephaneallary.eclipse.ide.test;
 
 import processing.core.*;
 import processing.video.*;
-//Mettre les library video dans dans le fichier lib à coter du jar ou dans l'app
+//Mettre les library video dans dans le fichier lib ˆ coter du jar ou dans l'app
 
 public class TestProcessingVideo extends PApplet {
 
