@@ -24,6 +24,7 @@ public class TestProcessingVideo extends PApplet {
 	}
 	
 	public void draw() {
+		this.frame.setTitle(frameRate+"");
 		if (this.cam.available()) {
 		    this.cam.read();
 		  }
